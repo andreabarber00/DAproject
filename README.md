@@ -17,6 +17,10 @@
 
 This analysis project aims to provide insights into the sales performance of Adidas from 2020 to 2021. By analyzing various aspects of the sales data, we seek to identify trends by using filter selection for specific years, regions, products, and more. The dashboard is used to make data-driven recommendations, and gain a deeper understanding of the sales to evaluate the performance at Adidas. 
 
+<img width="1336" alt="adidas dashboard screenshot" src="https://github.com/andreabarber00/DAproject/assets/144966865/9960584a-d33a-4ff1-a289-e6654e861691">
+
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is “Adidas-dashboard-start.xlsx” file, containing detailed information about sales made by the company in different categories.
