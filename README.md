@@ -1,6 +1,6 @@
-# Coffee Sales Analysis
+# Adidas Sales Analysis
 
-## Table of Contents
+### Table of Contents
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
