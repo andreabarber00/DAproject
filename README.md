@@ -6,11 +6,11 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaning)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Data Analysis](data-analysis)
-- [Results and findings](results-and-findings)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](r#esults-and-findings)
 - [Recommendations](#recommendations)
-- [References](references)
+- [References](#references)
 
 
 ### Project Overview
@@ -61,7 +61,7 @@ Interesting features worked with:
 - Linking data to worksheet cells
 - Format chart analyze
 
-### Results and findings
+### Results and Findings
 
 The analysis results ae summarized as follows:
   ### Sales by Region
