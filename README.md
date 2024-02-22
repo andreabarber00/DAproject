@@ -14,6 +14,7 @@
 
 
 ### Project Overview
+---
 
 This analysis project aims to provide insights into the sales performance of Adidas from 2020 to 2021. By analyzing various aspects of the sales data, we seek to identify trends by using filter selection for specific years, regions, products, and more. The dashboard is used to make data-driven recommendations, and gain a deeper understanding of the sales to evaluate the performance at Adidas. 
 
